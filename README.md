@@ -6,7 +6,7 @@
 
 **Fullstack Developer & Android Enthusiast.** Специализируюсь на автоматизации процессов и нестандартных решениях (от модов до энтерпрайз-систем).
 
-Собираю проекты, где есть прикладная логика: мобильный UX, backend/API, роли, базы данных, workflow, релизы и игровые события. Сейчас упаковываю профиль под Junior / Intern позиции: меньше шума, больше понятных флагманов и проверяемых результатов.
+Собираю проекты, где есть прикладная логика: мобильный UX, backend/API, роли, базы данных, workflow, релизы и игровые события. Сейчас фокус на Junior / Intern позициях и трех флагманских проектах.
 
 ## Stack
 
@@ -20,6 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=f38020)
+![Forge/Fabric](https://img.shields.io/badge/Forge%20%2F%20Fabric-111827?style=for-the-badge&logo=java&logoColor=f59e0b)
 
 ## Flagship Projects
 
@@ -27,28 +28,29 @@
 | --- | --- | --- |
 | [Cinema Notes](https://github.com/SemGAA/Program_kinp) | Android-приложение для совместного просмотра, комнат, профилей, друзей и заметок по тайтлам | Expo 54, React Native 0.81, Laravel 12, Cloudflare Workers |
 | [EDO Portal](https://github.com/SemGAA/edo-portal) | Автоматизация документооборота: роли, маршруты согласования, audit log, Livewire-журнал | Laravel 10, Livewire 2, Tailwind CSS, SQL |
-| [Minecraft Meteor Mod](https://github.com/SemGAA/minecraft-meteor-mod) | Игровая событийная логика: custom entity, server/world events, network packet, частицы и звук | Java, Minecraft Forge 1.21, Gradle |
+| [Minecraft Meteor Mod](https://github.com/SemGAA/minecraft-meteor-mod) | Игровая событийная логика: custom entity, server/world events, network packet, частицы и звук | Java, Minecraft Forge/Fabric, Gradle |
 
-## Proof Points
+## Что проверено
 
-- Профиль очищен до 5 основных публичных репозиториев: 3 флагмана, profile README и portfolio page.
-- Love Story и личные проекты скрыты в private, учебный шум архивирован.
+- Публичный профиль собран вокруг трех основных проектов.
 - EDO Portal: 28 Laravel/feature tests проходят, добавлен Livewire-журнал документов.
 - Cinema Notes: lint, TypeScript check и backend tests проходят; есть APK-релизы и GitHub Pages.
 - Minecraft Meteor Mod: `compileJava` проходит, build artifacts и IDE-файлы исключены из публикации.
 
-## How I Build
+## Как я работаю
 
 - Начинаю с пользовательского сценария, затем собираю рабочий интерфейс и API вокруг него.
 - Держу приватность: `.env`, ключи, build artifacts и личные данные не должны попадать в public.
 - Пишу README так, чтобы рекрутер понял ценность быстро, а разработчик смог запустить проект.
 - Люблю задачи, где backend, UI и нестандартная логика сходятся в одном продукте.
 
-## Links
+## Контакты
 
-[Portfolio](https://semgaa.github.io) · [Cinema Notes Page](https://semgaa.github.io/Program_kinp/) · [GitHub](https://github.com/SemGAA)
-
-Email, Telegram, VK и LinkedIn добавлю после подтверждения точных публичных ссылок.
+- Portfolio: [semgaa.github.io](https://semgaa.github.io)
+- GitHub: [github.com/SemGAA](https://github.com/SemGAA)
+- Email: [pazukha.sema@mail.ru](mailto:pazukha.sema@mail.ru)
+- Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
+- VK: Семён Андреев
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemGAA&layout=compact&theme=github_dark&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=e5e7eb" alt="Top languages" />
