@@ -1,0 +1,37 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SemGAA profile banner</title>
+  <desc id="desc">Dark portfolio banner for Fullstack Developer and Android Enthusiast</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.48" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#102A31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="0" x2="1140" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.83 0 0 0 0 0.93 0 0 0 0.48 0"/>
+      <feBlend in2="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1050" cy="80" r="220" fill="#22D3EE" opacity="0.12"/>
+  <circle cx="150" cy="290" r="170" fill="#34D399" opacity="0.10"/>
+  <path d="M0 254C145 220 270 224 412 252C558 281 690 302 846 268C1002 234 1126 176 1280 198V360H0V254Z" fill="#0F172A" opacity="0.78"/>
+  <path d="M82 78H490" stroke="url(#accent)" stroke-width="2" opacity="0.55"/>
+  <path d="M82 286H612" stroke="url(#accent)" stroke-width="2" opacity="0.34"/>
+  <g filter="url(#glow)">
+    <text x="80" y="168" fill="#ECFEFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="0">SemGAA</text>
+  </g>
+  <text x="84" y="218" fill="#A7B4C7" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">Fullstack Developer &amp; Android Enthusiast</text>
+  <g transform="translate(826 96)">
+    <rect width="330" height="158" rx="18" fill="#0B1020" opacity="0.74" stroke="#334155"/>
+    <text x="24" y="45" fill="#22D3EE" font-family="Cascadia Code, Consolas, monospace" font-size="18">workflow.approve()</text>
+    <text x="24" y="82" fill="#34D399" font-family="Cascadia Code, Consolas, monospace" font-size="18">android.room.join()</text>
+    <text x="24" y="119" fill="#FBBF24" font-family="Cascadia Code, Consolas, monospace" font-size="18">meteor.spawn()</text>
+  </g>
+</svg>
