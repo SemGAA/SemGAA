@@ -30,6 +30,21 @@
 | [EDO Portal](https://github.com/SemGAA/edo-portal) | Автоматизация документооборота: роли, маршруты согласования, audit log, Livewire-журнал | Laravel 10, Livewire 2, Tailwind CSS, SQL |
 | [Minecraft Meteor Mod](https://github.com/SemGAA/minecraft-meteor-mod) | Игровая событийная логика: custom entity, server/world events, network packet, частицы и звук | Java, Minecraft Forge/Fabric, Gradle |
 
+## Resume
+
+- [RESUME.md](./RESUME.md)
+- [PDF resume](https://semgaa.github.io/assets/semgaa-resume.pdf)
+
+## Что умею делать за деньги
+
+- CRUD-страницы, админки и личные кабинеты.
+- Laravel API: маршруты, валидация, авторизация, роли, простая документация.
+- Livewire-таблицы: поиск, фильтры, пагинация, действия над записями.
+- SQL: таблицы, связи, миграции, seed-данные для демо.
+- Android screens на Expo / React Native: навигация, формы, списки, карточки.
+- Bugfixes: найти ошибку, воспроизвести, поправить и описать результат.
+- GitHub Pages: портфолио, README, страницы проектов, релизные заметки.
+
 ## Что проверено
 
 - Публичный профиль собран вокруг трех основных проектов.
