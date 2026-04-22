@@ -48,9 +48,9 @@
 
 - Portfolio: [semgaa.github.io](https://semgaa.github.io)
 - GitHub: [github.com/SemGAA](https://github.com/SemGAA)
-- Email: [pazukha.sema@mail.ru](mailto:pazukha.sema@mail.ru)
+- Email: [pazukha.sema@mail.ru](mailto:pazukha.sema%40mail.ru)
 - Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
-- VK: Семён Андреев
+- VK: [Семён Андреев](https://vk.com/semyonat)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemGAA&layout=compact&theme=github_dark&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=e5e7eb" alt="Top languages" />
