@@ -4,9 +4,13 @@
 
 # SemGAA
 
-**Fullstack Developer & Android Enthusiast.** Специализируюсь на автоматизации процессов и нестандартных решениях (от модов до энтерпрайз-систем).
+**Семён Пазуха**<br />
+Junior PHP/Laravel Developer | Junior Mobile Developer
 
-Собираю проекты, где есть прикладная логика: мобильный UX, backend/API, роли, базы данных, workflow, релизы и игровые события. Сейчас фокус на Junior / Intern позициях и трех флагманских проектах.
+Ищу удалённую Junior / Intern позицию. Держу два отдельных трека:
+
+- web: Laravel, Livewire, SQL, роли, workflow, документооборот;
+- mobile: React Native / Expo, Android UI, release flow, продуктовые сценарии.
 
 ## Stack
 
@@ -22,42 +26,55 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Forge/Fabric](https://img.shields.io/badge/Forge%20%2F%20Fabric-111827?style=for-the-badge&logo=java&logoColor=f59e0b)
 
-## Flagship Projects
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Cinema Notes](https://github.com/SemGAA/Program_kinp) | Android-приложение для совместного просмотра, комнат, профилей, друзей и заметок по тайтлам | Expo 54, React Native 0.81, Laravel 12, Cloudflare Workers |
-| [EDO Portal](https://github.com/SemGAA/edo-portal) | Автоматизация документооборота: роли, маршруты согласования, audit log, Livewire-журнал | Laravel 10, Livewire 2, Tailwind CSS, SQL |
-| [Minecraft Meteor Mod](https://github.com/SemGAA/minecraft-meteor-mod) | Игровая событийная логика: custom entity, server/world events, network packet, частицы и звук | Java, Minecraft Forge/Fabric, Gradle |
-
 ## Resume
 
-- [RESUME.md](./RESUME.md)
-- [PDF resume](https://semgaa.github.io/assets/semgaa-resume.pdf)
+- Hub: [RESUME.md](./RESUME.md)
+- PHP / Laravel Markdown: [RESUME_PHP_LARAVEL.md](./RESUME_PHP_LARAVEL.md)
+- PHP / Laravel PDF: [semyon-pazukha-junior-php-laravel.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-php-laravel.pdf)
+- Mobile Markdown: [RESUME_MOBILE.md](./RESUME_MOBILE.md)
+- Mobile PDF: [semyon-pazukha-junior-mobile.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-mobile.pdf)
 
-## Что умею делать за деньги
+## Main Projects
 
-- CRUD-страницы, админки и личные кабинеты.
-- Laravel API: маршруты, валидация, авторизация, роли, простая документация.
-- Livewire-таблицы: поиск, фильтры, пагинация, действия над записями.
-- SQL: таблицы, связи, миграции, seed-данные для демо.
-- Android screens на Expo / React Native: навигация, формы, списки, карточки.
-- Bugfixes: найти ошибку, воспроизвести, поправить и описать результат.
-- GitHub Pages: портфолио, README, страницы проектов, релизные заметки.
+### EDO Portal
 
-## Что проверено
+Флагманский web-проект на Laravel / Livewire.
 
-- Публичный профиль собран вокруг трех основных проектов.
-- EDO Portal: 28 Laravel/feature tests проходят, добавлен Livewire-журнал документов.
-- Cinema Notes: lint, TypeScript check и backend tests проходят; есть APK-релизы и GitHub Pages.
-- Minecraft Meteor Mod: `compileJava` проходит, build artifacts и IDE-файлы исключены из публикации.
+- Собрал сценарий электронного документооборота: создание документа, маршрут согласования, возврат, архивирование.
+- Реализовал разграничение доступа по ролям и отделам.
+- Добавил audit log, журнал действий и Livewire-интерфейс для поиска, фильтров и пагинации.
+- Подготовил demo-данные и рабочий вход для быстрой проверки проекта работодателем.
+- Проверил проект автотестами: 29 тестов проходят.
 
-## Как я работаю
+Ссылки:
+- [GitHub](https://github.com/SemGAA/edo-portal)
+- [Portfolio](https://semgaa.github.io/#projects)
 
-- Начинаю с пользовательского сценария, затем собираю рабочий интерфейс и API вокруг него.
-- Держу приватность: `.env`, ключи, build artifacts и личные данные не должны попадать в public.
-- Пишу README так, чтобы рекрутер понял ценность быстро, а разработчик смог запустить проект.
-- Люблю задачи, где backend, UI и нестандартная логика сходятся в одном продукте.
+### Cinema Notes
+
+Флагманский mobile-проект на React Native / Expo.
+
+- Собрал Android-интерфейс для поиска, комнат, заметок, друзей и профиля.
+- Подготовил APK-релизы, README, changelog и GitHub Pages-страницу проекта.
+- Удержал продуктовую логику рядом с интерфейсом: комнаты просмотра, заметки, друзья, backend integration.
+
+Ссылки:
+- [GitHub](https://github.com/SemGAA/Program_kinp)
+- [Project page](https://semgaa.github.io/Program_kinp/)
+- [Releases](https://github.com/SemGAA/Program_kinp/releases)
+
+## Additional Experience
+
+### Minecraft Meteor Mod
+
+Java / Forge-проект как дополнительный опыт.
+
+- Реализовал событие падения метеорита с серверной и клиентской логикой.
+- Подготовил проект к установке через GitHub Releases и короткий player README.
+
+Ссылки:
+- [GitHub](https://github.com/SemGAA/minecraft-meteor-mod)
+- [Download latest mod](https://github.com/SemGAA/minecraft-meteor-mod/releases/latest)
 
 ## Контакты
 
@@ -65,7 +82,7 @@
 - GitHub: [github.com/SemGAA](https://github.com/SemGAA)
 - Email: [pazukha.sema@mail.ru](mailto:pazukha.sema%40mail.ru)
 - Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
-- VK: [Семён Андреев](https://vk.com/semyonat)
+- VK: [Семён Пазуха](https://vk.com/semyonat)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemGAA&layout=compact&theme=github_dark&hide_border=true&bg_color=0b1020&title_color=67e8f9&text_color=e5e7eb" alt="Top languages" />

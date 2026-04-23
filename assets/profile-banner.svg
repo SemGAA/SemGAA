@@ -1,6 +1,6 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">SemGAA profile banner</title>
-  <desc id="desc">Dark portfolio banner for Fullstack Developer and Android Enthusiast</desc>
+  <desc id="desc">Dark portfolio banner for Junior PHP/Laravel Developer and Junior Mobile Developer</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#05070D"/>
@@ -27,7 +27,7 @@
   <g filter="url(#glow)">
     <text x="80" y="168" fill="#ECFEFF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" letter-spacing="0">SemGAA</text>
   </g>
-  <text x="84" y="218" fill="#A7B4C7" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600">Fullstack Developer &amp; Android Enthusiast</text>
+  <text x="84" y="218" fill="#A7B4C7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Junior PHP/Laravel Developer | Junior Mobile Developer</text>
   <g transform="translate(826 96)">
     <rect width="330" height="158" rx="18" fill="#0B1020" opacity="0.74" stroke="#334155"/>
     <text x="24" y="45" fill="#22D3EE" font-family="Cascadia Code, Consolas, monospace" font-size="18">workflow.approve()</text>
