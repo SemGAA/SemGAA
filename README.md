@@ -12,6 +12,13 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 - web: Laravel, Livewire, SQL, роли, workflow, документооборот;
 - mobile: React Native / Expo, Android UI, release flow, продуктовые сценарии.
 
+Сейчас база такая:
+
+- Усть-Катав, Россия;
+- выпускник УКИТТ, специальность `Информационные системы`;
+- коммерческого опыта пока нет, основной практический опыт - учебные и pet-проекты, доведённые до demo, README, тестов и релизов;
+- формат работы: remote only, от `20 000` рублей.
+
 ## Stack
 
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=8b9cff)
@@ -33,6 +40,11 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 - PHP / Laravel PDF: [semyon-pazukha-junior-php-laravel.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-php-laravel.pdf)
 - Mobile Markdown: [RESUME_MOBILE.md](./RESUME_MOBILE.md)
 - Mobile PDF: [semyon-pazukha-junior-mobile.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-mobile.pdf)
+
+## Education
+
+- УКИТТ, специальность `Информационные системы`
+- Планирую продолжить обучение в УУНИТ по направлению программирования
 
 ## Main Projects
 

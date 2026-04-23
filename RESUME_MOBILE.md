@@ -10,10 +10,11 @@ Remote only. Junior / Intern. Ожидание по зарплате: от 20 00
 - GitHub: [github.com/SemGAA](https://github.com/SemGAA)
 - Email: [pazukha.sema@mail.ru](mailto:pazukha.sema%40mail.ru)
 - Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
+- Город: Усть-Катав, Россия
 
 ## Профиль
 
-Junior Mobile Developer с фокусом на Android UI, React Native / Expo, продуктовые мобильные сценарии и аккуратную упаковку проекта в demo и release. Ищу удаленную позицию, где важны понятный пользовательский поток, стабильный интерфейс и связка клиента с backend.
+Junior Mobile Developer с фокусом на Android UI, React Native / Expo, продуктовые мобильные сценарии и аккуратную упаковку проекта в demo и release. Коммерческого опыта пока нет, основной практический опыт - учебные и pet-проекты, доведённые до demo, README, релизов и технической проверки. Ищу удаленную позицию, где важны понятный пользовательский поток, стабильный интерфейс и связка клиента с backend.
 
 ## Ключевой стек
 
@@ -23,6 +24,11 @@ Junior Mobile Developer с фокусом на Android UI, React Native / Expo, 
 - Expo Router, Android UI, safe-area navigation
 - REST API integration
 - GitHub Releases, GitHub Pages
+
+## Образование
+
+- Усть-Катавский индустриально-технологический техникум, специальность `Информационные системы`
+- Планирую продолжить обучение в УУНИТ по направлению программирования
 
 ## Проекты
 
