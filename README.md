@@ -41,6 +41,7 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 - PHP / Laravel PDF: [semyon-pazukha-junior-php-laravel.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-php-laravel.pdf)
 - Mobile Markdown: [RESUME_MOBILE.md](./RESUME_MOBILE.md)
 - Mobile PDF: [semyon-pazukha-junior-mobile.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-mobile.pdf)
+- Гайд по поиску работы: [JOB_SEARCH_GUIDE_RU.md](./JOB_SEARCH_GUIDE_RU.md)
 
 ## Образование
 
