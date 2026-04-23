@@ -9,18 +9,18 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 
 Ищу удалённую Junior / Intern позицию. Держу два отдельных трека:
 
-- web: Laravel, Livewire, SQL, роли, workflow, документооборот;
-- mobile: React Native / Expo, Android UI, release flow, продуктовые сценарии.
+- web: Laravel, Livewire, SQL, роли, маршруты согласования и внутренние системы;
+- mobile: React Native / Expo, Android UI, навигация, состояния экранов и релизы.
 
 Сейчас база такая:
 
 - Усть-Катав, Россия;
 - `2022-2026`, УКИТТ, специальность `Информационные системы`;
-- коммерческого опыта пока нет, основная причина - завершаю обучение; практический опыт - учебные и pet-проекты, доведённые до demo, README, тестов и релизов;
-- английский: читаю техническую документацию со словарем;
-- формат работы: remote only, от `20 000` рублей.
+- коммерческого опыта пока нет: завершаю обучение и собираю портфолио из проектов, доведённых до рабочего сценария, документации и релизов;
+- английский: чтение технической документации и спецификаций с использованием словаря;
+- формат работы: удалённо, Junior / Intern, от `20 000` рублей.
 
-## Stack
+## Стек
 
 ![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=8b9cff)
 ![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=ff4b36)
@@ -34,66 +34,66 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=f38020)
 ![Forge/Fabric](https://img.shields.io/badge/Forge%20%2F%20Fabric-111827?style=for-the-badge&logo=java&logoColor=f59e0b)
 
-## Resume
+## Резюме
 
-- Hub: [RESUME.md](./RESUME.md)
+- Общая версия: [RESUME.md](./RESUME.md)
 - PHP / Laravel Markdown: [RESUME_PHP_LARAVEL.md](./RESUME_PHP_LARAVEL.md)
 - PHP / Laravel PDF: [semyon-pazukha-junior-php-laravel.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-php-laravel.pdf)
 - Mobile Markdown: [RESUME_MOBILE.md](./RESUME_MOBILE.md)
 - Mobile PDF: [semyon-pazukha-junior-mobile.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-mobile.pdf)
 
-## Education
+## Образование
 
 - `2022-2026` УКИТТ, специальность `Информационные системы`
 - Планирую продолжить обучение в УУНИТ по направлению программирования
 
-## Main Projects
+## Основные проекты
 
 ### EDO Portal
 
 Флагманский web-проект на Laravel / Livewire.
 
-- Собрал сценарий электронного документооборота: создание документа, маршрут согласования, возврат, архивирование.
+- Собрал сценарий электронного документооборота: создание документа, согласование, возврат на доработку и архивирование.
 - Реализовал разграничение доступа по ролям и отделам.
-- Добавил audit log, журнал действий и Livewire-интерфейс для поиска, фильтров и пагинации.
-- Подготовил demo-данные и рабочий вход для быстрой проверки проекта работодателем.
+- Добавил журнал действий и Livewire-интерфейс для поиска, фильтров и пагинации.
+- Подготовил демонстрационные данные и рабочий вход для быстрой проверки проекта.
 - Проверил проект автотестами: 29 тестов проходят.
 
 Ссылки:
 - [GitHub](https://github.com/SemGAA/edo-portal)
-- [Portfolio](https://semgaa.github.io/#projects)
+- [Портфолио](https://semgaa.github.io/#projects)
 
 ### Cinema Notes
 
 Флагманский mobile-проект на React Native / Expo.
 
 - Собрал Android-интерфейс для поиска, комнат, заметок, друзей и профиля.
-- Подготовил APK-релизы, README, changelog и GitHub Pages-страницу проекта.
-- Удержал продуктовую логику рядом с интерфейсом: комнаты просмотра, заметки, друзья, backend integration.
+- Подготовил APK-релизы, README, историю изменений и страницу проекта на GitHub Pages.
+- Сохранил рядом с интерфейсом продуктовую логику: комнаты просмотра, заметки, друзья и серверную часть.
 
 Ссылки:
 - [GitHub](https://github.com/SemGAA/Program_kinp)
-- [Project page](https://semgaa.github.io/Program_kinp/)
-- [Releases](https://github.com/SemGAA/Program_kinp/releases)
+- [Страница проекта](https://semgaa.github.io/Program_kinp/)
+- [Релизы](https://github.com/SemGAA/Program_kinp/releases)
 
-## Additional Experience
+## Дополнительный опыт
 
 ### Minecraft Meteor Mod
 
 Java / Forge-проект как дополнительный опыт.
 
 - Реализовал событие падения метеорита с серверной и клиентской логикой.
-- Подготовил проект к установке через GitHub Releases и короткий player README.
+- Подготовил проект к установке через GitHub Releases и краткий README для игрока.
 
 Ссылки:
 - [GitHub](https://github.com/SemGAA/minecraft-meteor-mod)
-- [Download latest mod](https://github.com/SemGAA/minecraft-meteor-mod/releases/latest)
+- [Скачать мод](https://github.com/SemGAA/minecraft-meteor-mod/releases/latest)
 
 ## Контакты
 
-- Portfolio: [semgaa.github.io](https://semgaa.github.io)
+- Портфолио: [semgaa.github.io](https://semgaa.github.io)
 - GitHub: [github.com/SemGAA](https://github.com/SemGAA)
-- Email: [pazukha.sema@mail.ru](mailto:pazukha.sema%40mail.ru)
+- Почта: [pazukha.sema@mail.ru](mailto:pazukha.sema@mail.ru)
 - Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
 - VK: [Семён Пазуха](https://vk.com/semyonat)
 
