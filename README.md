@@ -16,9 +16,7 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 
 - Усть-Катав, Россия;
 - `2022-2026`, УКИТТ, специальность `Информационные системы`;
-- коммерческого опыта пока нет: завершаю обучение и собираю портфолио из проектов, доведённых до рабочего сценария, документации и релизов;
-- английский: чтение технической документации и спецификаций с использованием словаря;
-- формат работы: удалённо, Junior / Intern, от `20 000` рублей.
+- коммерческого опыта пока нет: собираю портфолио из проектов, доведённых до рабочего сценария, документации и релизов;
 
 ## Стек
 
@@ -41,7 +39,6 @@ Junior PHP/Laravel Developer | Junior Mobile Developer
 - PHP / Laravel PDF: [semyon-pazukha-junior-php-laravel.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-php-laravel.pdf)
 - Mobile Markdown: [RESUME_MOBILE.md](./RESUME_MOBILE.md)
 - Mobile PDF: [semyon-pazukha-junior-mobile.pdf](https://semgaa.github.io/assets/semyon-pazukha-junior-mobile.pdf)
-- Гайд по поиску работы: [JOB_SEARCH_GUIDE_RU.md](./JOB_SEARCH_GUIDE_RU.md)
 
 ## Образование
 
@@ -93,7 +90,6 @@ Java / Forge-проект как дополнительный опыт.
 ## Контакты
 
 - Портфолио: [semgaa.github.io](https://semgaa.github.io)
-- GitHub: [github.com/SemGAA](https://github.com/SemGAA)
 - Почта: [pazukha.sema@mail.ru](mailto:pazukha.sema@mail.ru)
 - Telegram: [@HelpHelsing](https://t.me/HelpHelsing)
 - VK: [Семён Пазуха](https://vk.com/semyonat)
