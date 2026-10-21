@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="SemGAA. Семён Пазуха. Веб, мобильные приложения и игры." />
 </p>
 
-[Проекты](#проекты) | [Стек](#стек) | [Резюме](#резюме) | [Портфолио](https://semgaa.github.io/)
+[Проекты](#проекты) | [Стек](#стек) | [Активность](#активность) | [Резюме](#резюме) | [Портфолио](https://semgaa.github.io/)
 
 Пишу сайты и веб-приложения на Laravel. Мобильные приложения делаю на React Native и Expo. Ещё пишу плагины и моды для Minecraft и делаю игры на Godot.
 
@@ -12,19 +12,17 @@
 
 ## Стек
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36" alt="PHP" title="PHP" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" title="Laravel" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" width="36" height="36" alt="Livewire" title="Livewire" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React Native" title="React Native" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" height="36" alt="Android" title="Android" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" title="Java" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="36" height="36" alt="Godot" title="Godot" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
-</p>
+[![Технологии в моих проектах](./assets/stack.svg)](./assets/stack.svg)
+
+<details>
+<summary>Стек по направлениям</summary>
+
+- Веб: PHP, Laravel, Livewire, HTML, CSS, JavaScript, Tailwind CSS, Alpine.js, Vite.
+- Мобильные приложения: TypeScript, React Native, Expo, Android.
+- Игры: Java, Forge, Gradle, Godot.
+- Данные и инструменты: MySQL, SQLite, Cloudflare Workers, Composer, Git, Linux.
+
+</details>
 
 ## Проекты
 
@@ -58,6 +56,30 @@ TypeScript, React Native, Expo, Laravel API.
 Java 21, Forge, Gradle.
 
 [Скачать мод](https://github.com/SemGAA/minecraft-meteor-mod/releases) | [Код](https://github.com/SemGAA/minecraft-meteor-mod)
+
+</details>
+
+## Активность
+
+[![Активность GitHub, снимок на 22.10.2026](./assets/activity.svg)](https://github.com/SemGAA#js-contribution-activity-description)
+
+<details>
+<summary>Вклады по месяцам</summary>
+
+Снимок календаря на 22.10.2026. Свежие данные можно посмотреть в [календаре GitHub](https://github.com/SemGAA#js-contribution-activity-description).
+
+| Месяц | Вклады |
+| --- | ---: |
+| 2025-10 | 13 |
+| 2025-11 | 5 |
+| 2025-12 | 3 |
+| 2026-01 | 6 |
+| 2026-02 | 24 |
+| 2026-04 | 69 |
+| 2026-06 | 4 |
+| 2026-07 | 5 |
+| 2026-08 | 8 |
+| 2026-10 | 6 |
 
 </details>
 
