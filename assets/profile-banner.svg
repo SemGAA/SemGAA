@@ -1,6 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">SemGAA. Семён Пазуха</title>
   <desc id="desc">Веб, мобильные приложения и игры.</desc>
+  <style>
+    .pixel-mark { animation: float 4s ease-in-out infinite; }
+    .pixel-light { animation: glint 4s ease-in-out infinite; }
+    .pixel-end { animation-delay: 2s; }
+    .spark { animation: drift 6s ease-in-out infinite; opacity: 0; }
+    .spark-late { animation-delay: 3s; }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @keyframes glint { 0%, 100% { fill: #BAC9A6; } 50% { fill: #6E9155; } }
+    @keyframes drift {
+      0%, 12% { opacity: 0; transform: translate(0, 0); }
+      25% { opacity: .7; }
+      62% { opacity: .7; }
+      78%, 100% { opacity: 0; transform: translate(-34px, 34px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .pixel-mark, .pixel-light, .spark { animation: none; }
+    }
+  </style>
   <rect width="1200" height="300" rx="12" fill="#F1EFE8"/>
   <path d="M40 64V40H64M1136 40H1160V64M40 236V260H64M1136 260H1160V236" stroke="#AAB5A5" stroke-width="2"/>
   <g font-family="Arial, Helvetica, sans-serif">
@@ -10,8 +28,14 @@
   </g>
   <path d="M788 60V240" stroke="#D2D8CA"/>
   <g transform="translate(873 66)" fill="#426447">
+    <g class="pixel-mark">
     <path d="M24 0H144V24H24Z M0 24H48V72H0Z M24 72H120V96H24Z M96 96H144V144H96Z M0 144H120V168H0Z"/>
-    <rect x="144" y="0" width="24" height="24" fill="#BAC9A6"/>
-    <rect x="0" y="144" width="24" height="24" fill="#BAC9A6"/>
+    <rect class="pixel-light" x="144" y="0" width="24" height="24" fill="#BAC9A6"/>
+    <rect class="pixel-light pixel-end" x="0" y="144" width="24" height="24" fill="#BAC9A6"/>
+    </g>
+  </g>
+  <g fill="#6E9155">
+    <rect class="spark" x="1094" y="76" width="12" height="12"/>
+    <rect class="spark spark-late" x="1082" y="178" width="8" height="8"/>
   </g>
 </svg>
