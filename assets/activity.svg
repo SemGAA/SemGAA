@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Активность SemGAA на 22.10.2026</title><desc id="desc">143 вклада, 26 дней с активностью, максимум 23 вклада за день. Снимок календаря GitHub за 2025-10-19 - 2026-10-22.</desc>
+<rect x="1" y="1" width="1198" height="418" rx="10" fill="#10171c" stroke="#2b393f" stroke-width="2"/>
+<g font-family="DejaVu Sans Mono, Consolas, monospace">
+<defs><pattern id="cells" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="16" height="16" rx="2" fill="#1d2a30"/></pattern><clipPath id="calendar-clip"><rect x="80" y="210" width="1056" height="136"/></clipPath></defs>
+<style>.scan{animation:scan 16s linear infinite}@keyframes scan{0%{transform:translateX(0);opacity:0}5%{opacity:.7}95%{opacity:.7}100%{transform:translateX(1040px);opacity:0}}@media(prefers-reduced-motion:reduce){.scan{animation:none;display:none}}</style>
+<text x="40" y="43" font-size="20" fill="#a9cdb5" >$ git activity</text>
+<text x="890" y="43" font-size="18" fill="#90a39a" >снимок 22.10.2026</text>
+<text x="40" y="114" font-size="48" fill="#a9cdb5" >143</text>
+<text x="40" y="147" font-size="18" fill="#90a39a" >вклада</text>
+<text x="430" y="114" font-size="48" fill="#a9cdb5" >26</text>
+<text x="430" y="147" font-size="18" fill="#90a39a" >дней с активностью</text>
+<text x="820" y="114" font-size="48" fill="#a9cdb5" >23</text>
+<text x="820" y="147" font-size="18" fill="#90a39a" >максимум за день</text>
+<path d="M40 169H1160" stroke="#2b393f"/>
+<g transform="translate(80 210)"><rect width="1056" height="136" fill="url(#cells)"/></g>
+<rect x="80" y="250" width="16" height="16" rx="2" fill="#527a60"><title>2025-10-21: 7</title></rect>
+<rect x="80" y="270" width="16" height="16" rx="2" fill="#527a60"><title>2025-10-22: 6</title></rect>
+<rect x="120" y="250" width="16" height="16" rx="2" fill="#39574b"><title>2025-11-04: 1</title></rect>
+<rect x="120" y="270" width="16" height="16" rx="2" fill="#39574b"><title>2025-11-05: 3</title></rect>
+<rect x="140" y="270" width="16" height="16" rx="2" fill="#39574b"><title>2025-11-12: 1</title></rect>
+<rect x="200" y="310" width="16" height="16" rx="2" fill="#39574b"><title>2025-12-05: 3</title></rect>
+<rect x="360" y="230" width="16" height="16" rx="2" fill="#527a60"><title>2026-01-26: 6</title></rect>
+<rect x="400" y="250" width="16" height="16" rx="2" fill="#afd2b5"><title>2026-02-10: 16</title></rect>
+<rect x="400" y="310" width="16" height="16" rx="2" fill="#527a60"><title>2026-02-13: 5</title></rect>
+<rect x="420" y="230" width="16" height="16" rx="2" fill="#39574b"><title>2026-02-16: 3</title></rect>
+<rect x="540" y="270" width="16" height="16" rx="2" fill="#78a382"><title>2026-04-01: 11</title></rect>
+<rect x="540" y="290" width="16" height="16" rx="2" fill="#78a382"><title>2026-04-02: 11</title></rect>
+<rect x="580" y="290" width="16" height="16" rx="2" fill="#39574b"><title>2026-04-16: 1</title></rect>
+<rect x="600" y="270" width="16" height="16" rx="2" fill="#afd2b5"><title>2026-04-22: 23</title></rect>
+<rect x="600" y="290" width="16" height="16" rx="2" fill="#afd2b5"><title>2026-04-23: 19</title></rect>
+<rect x="600" y="310" width="16" height="16" rx="2" fill="#39574b"><title>2026-04-24: 4</title></rect>
+<rect x="760" y="230" width="16" height="16" rx="2" fill="#39574b"><title>2026-06-15: 3</title></rect>
+<rect x="780" y="310" width="16" height="16" rx="2" fill="#39574b"><title>2026-06-26: 1</title></rect>
+<rect x="800" y="330" width="16" height="16" rx="2" fill="#39574b"><title>2026-07-04: 2</title></rect>
+<rect x="820" y="270" width="16" height="16" rx="2" fill="#39574b"><title>2026-07-08: 2</title></rect>
+<rect x="880" y="310" width="16" height="16" rx="2" fill="#39574b"><title>2026-07-31: 1</title></rect>
+<rect x="920" y="290" width="16" height="16" rx="2" fill="#39574b"><title>2026-08-13: 2</title></rect>
+<rect x="940" y="210" width="16" height="16" rx="2" fill="#39574b"><title>2026-08-16: 1</title></rect>
+<rect x="940" y="230" width="16" height="16" rx="2" fill="#39574b"><title>2026-08-17: 1</title></rect>
+<rect x="960" y="310" width="16" height="16" rx="2" fill="#39574b"><title>2026-08-28: 4</title></rect>
+<rect x="1120" y="290" width="16" height="16" rx="2" fill="#527a60"><title>2026-10-22: 6</title></rect>
+<text x="100" y="194" font-size="13" fill="#90a39a" >ноя</text>
+<text x="200" y="194" font-size="13" fill="#90a39a" >дек</text>
+<text x="280" y="194" font-size="13" fill="#90a39a" >янв</text>
+<text x="380" y="194" font-size="13" fill="#90a39a" >фев</text>
+<text x="460" y="194" font-size="13" fill="#90a39a" >мар</text>
+<text x="540" y="194" font-size="13" fill="#90a39a" >апр</text>
+<text x="620" y="194" font-size="13" fill="#90a39a" >май</text>
+<text x="720" y="194" font-size="13" fill="#90a39a" >июн</text>
+<text x="800" y="194" font-size="13" fill="#90a39a" >июл</text>
+<text x="880" y="194" font-size="13" fill="#90a39a" >авг</text>
+<text x="980" y="194" font-size="13" fill="#90a39a" >сен</text>
+<text x="1060" y="194" font-size="13" fill="#90a39a" >окт</text>
+<text x="40" y="242" font-size="13" fill="#90a39a" >пн</text>
+<text x="40" y="282" font-size="13" fill="#90a39a" >ср</text>
+<text x="40" y="322" font-size="13" fill="#90a39a" >пт</text>
+<g clip-path="url(#calendar-clip)"><rect class="scan" x="80" y="209" width="16" height="138" rx="2" fill="none" stroke="#a9cdb5" stroke-width="1.5"/></g>
+<text x="40" y="389" font-size="16" fill="#90a39a" >19.10.2025 - 22.10.2026</text>
+<text x="910" y="389" font-size="16" fill="#90a39a" >источник: GitHub</text>
+</g></svg>
