@@ -17,10 +17,14 @@
 <details>
 <summary>Стек по направлениям</summary>
 
-- Веб: PHP, Laravel, Livewire, HTML, CSS, JavaScript, Tailwind CSS, Alpine.js, Vite.
-- Мобильные приложения: TypeScript, React Native, Expo, Android.
-- Игры: Java, Forge, Gradle, Godot.
-- Данные и инструменты: MySQL, SQLite, Cloudflare Workers, Composer, Git, Linux.
+- Языки: PHP, JavaScript, TypeScript, Python, Kotlin, Java, SQL.
+- Разметка и стили: HTML, CSS, Blade.
+- Веб: Laravel, Livewire, Tailwind CSS, Alpine.js.
+- Мобильные приложения: React Native, Expo, Android SDK.
+- Боты и скрипты: Python, Requests.
+- Minecraft и игры: Java, Forge, Godot.
+- Базы данных: MySQL, SQLite.
+- Сборка и инструменты: Vite, Composer, Gradle, Git, Linux, Cloudflare Workers.
 
 </details>
 
