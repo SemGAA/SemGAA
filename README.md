@@ -35,9 +35,38 @@
 
 ## Проекты
 
-- [EDO Portal](https://github.com/SemGAA/edo-portal): документооборот с согласованием, ролями и историей действий. PHP, Laravel, Livewire.
-- [Cinema Notes](https://github.com/SemGAA/Program_kinp): Android-приложение для поиска фильмов, сериалов и аниме, с комнатами просмотра и заметками. React Native, Expo, Laravel API. [Скачать APK](https://github.com/SemGAA/Program_kinp/releases).
-- [Minecraft Meteor Mod](https://github.com/SemGAA/minecraft-meteor-mod): мод с падением метеорита для Minecraft 1.21. Java, Forge. [Скачать мод](https://github.com/SemGAA/minecraft-meteor-mod/releases).
+<details>
+<summary><b>EDO Portal</b> · веб-приложение</summary>
+
+Сервис для работы с документами. Можно создать документ, отправить на согласование, вернуть на доработку или убрать в архив. Есть доступ по ролям и отделам, история действий и поиск.
+
+**Стек:** PHP, Laravel, Livewire, SQL.
+
+[Код и запуск](https://github.com/SemGAA/edo-portal#readme)
+
+</details>
+
+<details>
+<summary><b>Cinema Notes</b> · Android</summary>
+
+Приложение для поиска фильмов, сериалов и аниме, с комнатами просмотра, друзьями и заметками. Код приложения и Laravel API лежит в одном репозитории.
+
+**Стек:** TypeScript, React Native, Expo, Laravel API.
+
+[Страница проекта](https://semgaa.github.io/Program_kinp/) · [Скачать APK](https://github.com/SemGAA/Program_kinp/releases) · [Код](https://github.com/SemGAA/Program_kinp)
+
+</details>
+
+<details>
+<summary><b>Minecraft Meteor Mod</b> · Minecraft 1.21</summary>
+
+Добавляет падение метеорита в Minecraft 1.21. Событие обрабатывается на сервере, эффекты отображаются на клиенте.
+
+**Стек:** Java 21, Forge, Gradle.
+
+[Скачать мод](https://github.com/SemGAA/minecraft-meteor-mod/releases) · [Код](https://github.com/SemGAA/minecraft-meteor-mod)
+
+</details>
 
 ## Резюме
 
